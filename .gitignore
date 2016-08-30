@@ -23,4 +23,10 @@
 *.exe
 *.out
 *.app
+
 *.suo
+*.vcxproj.user
+
+Debug/
+Release/
+ipch/
